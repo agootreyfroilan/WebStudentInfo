@@ -2,7 +2,7 @@ let students = [];
 let formMode = "Add";
 let selectedStudentID = -1;
 let currentSearchTerm = "";
-const baseURL = "https://studentinfoapi-ytla.onrender.com/api/students";
+const baseURL = "https://studentinfoapi-2a63.onrender.com/api/students";
 
 const $tbody = $("#student-data");
 const $searchForm = $("#search-form");
